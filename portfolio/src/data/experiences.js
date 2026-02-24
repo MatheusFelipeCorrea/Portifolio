@@ -4,7 +4,7 @@ export const experiences = {
     pt: [
         {
             id: 1,
-            year: 'Jan 2025 - Atual',
+            year: 'Jan 2026 - Atual',
             role: 'Estagiário Full-Stack',
             company: 'dti digital',
             description: 'Desenvolvimento Full-Stack focado em criar soluções robustas unindo a performance do .NET e Node.js com a interatividade do React. Participação em projetos ágeis.',
