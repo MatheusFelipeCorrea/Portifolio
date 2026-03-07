@@ -20,14 +20,10 @@ O foco do projeto é a **identidade visual coerente** e a **experiência do usu�
 
 | Camada | Tecnologia | Detalhes |
 | --- | --- | --- |
-| **Framework** | React (Vite) | Desenvolvimento ágil de componentes e build otimizado.
-|
-| **Estilização** | Tailwind CSS | Design utilitário com sistema de cores neon personalizado.
-|
-| **Animações** | Framer Motion | Transições suaves e efeitos de scroll na jornada.
-|
-| **Comunicação** | EmailJS | Integração direta com serviço de e-mail sem necessidade de back-end próprio.
-|
+| **Framework** | React (Vite) | Desenvolvimento ágil de componentes e build otimizado. |
+| **Estilização** | Tailwind CSS | Design utilitário com sistema de cores neon personalizado. |
+| **Animações** | Framer Motion | Transições suaves e efeitos de scroll na jornada. |
+| **Comunicação** | EmailJS | Integração direta com serviço de e-mail sem necessidade de back-end próprio. |
 | **Context API** | React Context | Gerenciamento global do estado de idioma entre componentes. |
 
 ## 📝 Documentação e Links Úteis
